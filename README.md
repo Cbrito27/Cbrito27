@@ -1,5 +1,5 @@
-### Hi there 👋
-👋 ¡Hola, soy [Tu Nombre]! Apasionado por el mundo de la programación, estoy en el emocionante viaje de aprender y crecer en este fascinante campo. Actualmente explorando diversos lenguajes y tecnologías, ¡siempre en busca de nuevos desafíos! 
+### 👶 Desarrollador en Desarrollo
+👋 ¡Hola, soy Cesar! Apasionado por el mundo de la programación, estoy en el emocionante viaje de aprender y crecer en este fascinante campo. Actualmente explorando diversos lenguajes y tecnologías, ¡siempre en busca de nuevos desafíos! 
 
 💻✨ ¡Acepto sugerencias y consejos para mejorar y avanzar juntos en este apasionante camino del código!
 
