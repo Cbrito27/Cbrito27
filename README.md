@@ -1,5 +1,12 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,docker,nodejs,git,github,vstudio&perline=3)](https://skillicons.dev)
+👋 ¡Hola, soy [Tu Nombre]! Apasionado por el mundo de la programación, estoy en el emocionante viaje de aprender y crecer en este fascinante campo. Actualmente explorando diversos lenguajes y tecnologías, ¡siempre en busca de nuevos desafíos! 
+
+💻✨ ¡Acepto sugerencias y consejos para mejorar y avanzar juntos en este apasionante camino del código!
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,docker,nodejs,git,github,vstudio&perline=)](https://skillicons.dev)
+
+
+
 <!--
 **Cbrito27/Cbrito27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
