@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,nodejs,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,nodejs,git,github,visualstudio&perline=3)](https://skillicons.dev)
 <!--
 **Cbrito27/Cbrito27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
